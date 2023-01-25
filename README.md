@@ -6,7 +6,8 @@
   - [Image Processor](https://github.com/mlebiedzinski/ImageProcessor.git)
 
 <h2> Currently learning more about...</h2>
-- [Cybersecurity]
-- [Artificial Intelligence]
-<!--
+  
+- Cybersecurity
+- Artificial Intelligence
+
 
