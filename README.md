@@ -4,6 +4,10 @@
 
 - <b>Java</b>
   - [Image Processor](https://github.com/mlebiedzinski/ImageProcessor.git)
+  
+- <b>Python</b>
+  - [Password Generator](https://github.com/mlebiedzinski/Password-Generator.git)
+  
 
 <h2> Currently learning more about...</h2>
   
