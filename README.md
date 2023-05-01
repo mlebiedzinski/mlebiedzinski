@@ -7,7 +7,7 @@
   
 - <b>Python</b>
   - [Password Generator](https://github.com/mlebiedzinski/Password-Generator.git)
-  - [Connect Four]
+  - [Connect Four](https://github.com/mlebiedzinski/Connect-Four.git)
   
 
 <h2> Currently learning more about...</h2>
